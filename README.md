@@ -18,3 +18,4 @@
 https://github.com/rweisshaar1/e-commerce-back-end
 
 ## Screen Recording of Working Application:
+[**Link to demonstration video**](https://github.com/rweisshaar1/e-commerce-back-end/blob/main/screen-recording/screen-recording.mov "Walkthrough video")

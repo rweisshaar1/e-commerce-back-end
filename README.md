@@ -18,3 +18,4 @@
 https://github.com/rweisshaar1/e-commerce-back-end
 
 ## Screen Recording of Working Application:
+/Users/robbieweisshaar/Documents/bootcamp/homework/e-commerce-back-end/screen-recording.mov
